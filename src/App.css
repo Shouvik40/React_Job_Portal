@@ -1,0 +1,15 @@
+/* .App {
+  text-align: left;
+}
+ 
+
+/* Styles for each job card */
+ 
+.App-header {
+  background-color: #ffffff;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  font-size: calc(10px + 2vmin);
+  color: rgb(11, 7, 7);
+} 
